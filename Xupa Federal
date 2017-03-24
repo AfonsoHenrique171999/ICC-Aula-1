@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("Xupa Federal!\n");
+    return 0;
+}

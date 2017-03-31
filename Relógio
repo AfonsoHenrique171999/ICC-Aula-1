@@ -27,4 +27,4 @@ Loop:;
             hora=0;
         }
     sleep(1);
-    goto Loop;
+    goto Loop;}
